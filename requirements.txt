@@ -23,7 +23,7 @@ djangorestframework==3.14.0
 et-xmlfile==1.1.0
 fastjsonschema==2.16.1
 fonttools==4.33.3
-gevent==22.10.2
+gevent
 greenlet==1.1.2
 gunicorn==20.1.0
 idna==3.3
