@@ -24,7 +24,7 @@ et-xmlfile==1.1.0
 fastjsonschema==2.16.1
 fonttools==4.33.3
 gevent
-greenlet==1.1.2
+greenlet
 gunicorn==20.1.0
 idna==3.3
 importlib-metadata==4.11.3
