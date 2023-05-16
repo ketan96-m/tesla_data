@@ -1,1 +1,1 @@
-web: gunicorn megapack.wsgi
+web: waitress-serve --call megapack.wsgi
