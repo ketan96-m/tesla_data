@@ -1,1 +1,1 @@
-web: gunicorn megapack.wsgi:application
+web:  waitress-serve --port=$PORT megapack.wsgi
