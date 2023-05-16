@@ -1,1 +1,1 @@
-web: gunicorn megapack.wsgi
+web: gunicorn megapack.wsgi --log-file -
