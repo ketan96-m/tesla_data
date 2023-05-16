@@ -78,6 +78,8 @@ STORAGES = {
     },
 }
 
+STATICFILES_STORAGE = 'whitenoise.storage.CompressedStaticFilesStorage'
+
 WSGI_APPLICATION = 'megapack.wsgi.application'
 
 
