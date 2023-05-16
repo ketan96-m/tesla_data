@@ -17,6 +17,7 @@ Django==3.2.12
 django-bootstrap-v5==1.0.11
 django-crispy-forms==1.14.0
 django-filter==21.1
+django-heroku==0.3.1
 django-matplotlib==0.1
 django-tables2==2.4.1
 djangorestframework==3.14.0
