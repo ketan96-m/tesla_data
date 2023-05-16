@@ -1,1 +1,1 @@
-web:  waitress-serve --port=$PORT megapack.wsgi
+web:  waitress-serve --port=$PORT megapack.wsgi:application
